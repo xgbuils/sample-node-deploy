@@ -1,0 +1,1 @@
+{"appurl":"test.juggol.com","name":"hello_world","start":"index.js","port":"8000","path":"/home/pantalaimon/www/hello_world","nginx":"/etc/nginx/sites-enabled","url":"https://github.com/xgbuils/sample-node-deploy.git","server":"pantalaimon@vps128451.ovh.net","sshport":"22"}
